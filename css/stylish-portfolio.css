@@ -238,3 +238,69 @@ i.scroll:hover {
 .jotform-form{
      background-color:white;
 }
+.picture_round{
+	width:180px;
+	height:180px;
+	border-radius:90px;
+	border: 10px solid white;
+	
+}
+.arenas{
+	background-size:180px;
+	background-image:url("../img/arenas.jpg");
+	background-position: -10px 0px;
+}
+.levinson{
+	background-size:160px;
+	background-image:url("http://nexus.umn.edu/images/levinson2.jpg");
+	background-position: 10px 0px;
+}
+.nicosia{
+	background-size:150px;
+	background-image:url("../img/nicosia.png");
+	background-position: 0px 0px;
+}
+.simini{
+	background-size:150px;
+	background-image:url("../img/simini.jpg");
+	background-position: 0px 0px;
+}
+.zheng{
+	background-size:160px;
+	background-image:url("../img/zheng.jpg");
+	background-position: 0px 0px;
+}
+.short{
+	background-size:150px;
+	background-image:url("../img/short.jpg");
+	background-position: 0px 0px;
+}
+.aldous{
+	background-size:150px;
+	background-image:url("../img/aldous.jpg");
+	background-position: 0px 0px;
+}
+.organizers div p a{
+ 	color:white;
+	text-decoration:underline;
+}
+.gonzalez{
+	background-size:150px;
+	background-image:url("../img/gonzalez.jpg");
+	background-position: 5px 0px;
+}
+.barthelemy{
+	background-size:150px;
+	background-image:url("../img/barthelemy.jpg");
+	background-position: 5px -10px;
+}
+.bettencourt{
+	background-size:260px;
+	background-image:url("../img/bettencourt.jpg");
+	background-position: -90px 0px;
+}
+.herrera{
+	background-size:350px;
+	background-image:url("../img/herrera.png");
+	background-position: -80px -70px;
+}

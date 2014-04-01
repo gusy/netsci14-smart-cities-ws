@@ -291,9 +291,9 @@ i.scroll:hover {
 	background-position: 5px 0px;
 }
 .barthelemy{
-	background-size:150px;
+	background-size:200px;
 	background-image:url("../img/barthelemy.jpg");
-	background-position: 5px -10px;
+	background-position: -30px 5px;
 }
 .bettencourt{
 	background-size:260px;
